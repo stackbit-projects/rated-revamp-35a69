@@ -2,7 +2,7 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: 'They Told me '
+  - section_id: They told me I couldn't
     type: section_hero
     title: RATED BENJAMIN
     content: >-
