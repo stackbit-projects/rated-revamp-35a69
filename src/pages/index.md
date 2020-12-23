@@ -2,7 +2,7 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: T
+  - section_id: 'They Told me '
     type: section_hero
     title: RATED BENJAMIN
     content: >-
